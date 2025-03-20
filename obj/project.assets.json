@@ -4740,11 +4740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50178746827\\Desktop\\Event-plus\\Event-plus.csproj",
+      "projectUniqueName": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent+\\Event-plus.csproj",
       "projectName": "Event-plus",
-      "projectPath": "C:\\Users\\50178746827\\Desktop\\Event-plus\\Event-plus.csproj",
+      "projectPath": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent+\\Event-plus.csproj",
       "packagesPath": "C:\\Users\\50178746827\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50178746827\\Desktop\\Event-plus\\obj\\",
+      "outputPath": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent+\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

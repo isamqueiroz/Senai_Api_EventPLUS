@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Uteis\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
