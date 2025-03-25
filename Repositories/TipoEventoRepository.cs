@@ -15,11 +15,6 @@ namespace Event_plus.Repositories
             _context = context;
         }
 
-
-        public List<TiposEventos> Listar()
-        {
-            return _context.TiposEventos.ToList();
-        }
         //Desenvolver os metodos que foram
         //criados na minha interface
         // Método para buscar um tipo de evento pelo ID
@@ -31,8 +26,20 @@ namespace Event_plus.Repositories
         // Método para cadastrar um novo tipo de evento
         public void Cadastrar(TiposEventos tipoEvento)
         {
-            _context.TiposEventos.Add(tipoEvento);
-            _context.SaveChanges();
+            try
+            {
+                tipoEvento.IdTipoEvento = Guid.NewGuid();
+
+                _context.TiposEventos.Add(tipoEvento);
+
+                _context.SaveChanges();
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         // Método para atualizar um tipo de evento existente
@@ -51,14 +58,37 @@ namespace Event_plus.Repositories
         // Método para deletar um tipo de evento
         public void Deletar(Guid id)
         {
-            TiposEventos tipoBuscado = _context.TiposEventos.Find(id)!;
+            try
+            {
+                   TiposEventos tipoBuscado = _context.TiposEventos.Find(id)!;
+
             if (tipoBuscado != null)
             {
                 _context.TiposEventos.Remove(tipoBuscado);
-                _context.SaveChanges();
+            }
+
+            
+
+            }
+            catch (Exception)
+            {
+
+                throw;
             }
         }
 
-        
+        public List<TiposEventos> Listar()
+        {
+            try
+            {
+                return _context.TiposEventos.OrderBy(tp => tp.Titulo).ToList();
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }

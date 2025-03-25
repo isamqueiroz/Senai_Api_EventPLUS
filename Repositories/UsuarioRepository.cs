@@ -56,7 +56,21 @@ namespace Event_plus.Repositories
 
         public Usuarios BuscarPorEmailESenha(string email, string senha)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Usuarios usuarioBuscado = _context.Usuarios.FirstOrDefault(u => u.Email == email)!;
+                if (usuarioBuscado != null)
+                {
+                    return usuarioBuscado;
+                }
+                return null!;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
-}
+    }
+

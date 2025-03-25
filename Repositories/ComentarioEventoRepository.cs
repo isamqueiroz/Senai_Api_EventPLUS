@@ -30,7 +30,6 @@ namespace Event_plus.Repositories
         }
 
         
-
         public List<ComentariosEventos> Listar(Guid id)
         {
             return _context.ComentariosEventos.ToList<ComentariosEventos>();

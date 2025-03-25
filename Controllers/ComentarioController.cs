@@ -37,7 +37,7 @@ namespace Event_plus.Controllers
 
         
 
-        [HttpGet("evento/{idEvento}")]
+        [HttpGet("evento/{idEvento}")] 
         public IActionResult Listar(Guid idEvento)
         {
             var comentarios = _comentarioEventoRepository.Listar(idEvento);

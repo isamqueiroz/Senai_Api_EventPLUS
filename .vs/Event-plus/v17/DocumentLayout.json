@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\itiposeventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\itiposeventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\domains\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:domains\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\ieventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\ieventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\icomentarioseventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\icomentarioseventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\comentarioeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +23,88 @@
       "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\domains\\tiposeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:domains\\tiposeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\ieventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\ieventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\domains\\tiposusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:domains\\tiposusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\controllers\\tipousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:controllers\\tipousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\context\\eventocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:context\\eventocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\domains\\tiposeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:domains\\tiposeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\migrations\\20250318165645_dbeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:migrations\\20250318165645_dbeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\itiposeventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\itiposeventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\domains\\presencaseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:domains\\presencaseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\itiposusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\itiposusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\repositories\\presencaseventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:repositories\\presencaseventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\interfaces\\icomentarioseventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:interfaces\\icomentarioseventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|c:\\users\\50178746827\\desktop\\senai_api_evevent\u002B\\event-plus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9EAD7AC6-44F5-4B95-B5DA-89D16AB9EB5D}|Event-plus.csproj|solutionrelative:event-plus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\PresencaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PresencaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,37 +114,318 @@
       "DocumentGroups": [
         {
           "DockedHeight": 342,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEventosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\IEventosRepository.cs",
-              "RelativeDocumentMoniker": "interfaces\\IEventosRepository.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\IEventosRepository.cs",
-              "RelativeToolTip": "interfaces\\IEventosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Domains\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\Usuarios.cs",
+              "RelativeToolTip": "Domains\\Usuarios.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:26:29.835Z",
+              "WhenOpened": "2025-03-25T19:13:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T19:23:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:02:04.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "EventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\EventoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventoRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\EventoRepository.cs",
+              "RelativeToolTip": "Repositories\\EventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:52:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TipoUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\TipoUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\TipoUsuarioRepository.cs",
               "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\TipoUsuarioRepository.cs",
               "RelativeToolTip": "Repositories\\TipoUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T19:25:19.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "IEventosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\IEventosRepository.cs",
+              "RelativeDocumentMoniker": "interfaces\\IEventosRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\IEventosRepository.cs",
+              "RelativeToolTip": "interfaces\\IEventosRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:26:29.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComentarioEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\ComentarioEventoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ComentarioEventoRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\ComentarioEventoRepository.cs",
+              "RelativeToolTip": "Repositories\\ComentarioEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:32:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:57:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:28:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TiposUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposUsuarios.cs",
+              "RelativeDocumentMoniker": "Domains\\TiposUsuarios.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposUsuarios.cs",
+              "RelativeToolTip": "Domains\\TiposUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:22:48.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\TipoUsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoUsuarioController.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\TipoUsuarioController.cs",
+              "RelativeToolTip": "Controllers\\TipoUsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:01:35.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TiposEventos.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposEventos.cs",
+              "RelativeDocumentMoniker": "Domains\\TiposEventos.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposEventos.cs",
+              "RelativeToolTip": "Domains\\TiposEventos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:22:49.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250318165645_DbEventos.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Migrations\\20250318165645_DbEventos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250318165645_DbEventos.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Migrations\\20250318165645_DbEventos.cs",
+              "RelativeToolTip": "Migrations\\20250318165645_DbEventos.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:11:48.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventoContext.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Context\\EventoContext.cs",
+              "RelativeDocumentMoniker": "Context\\EventoContext.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Context\\EventoContext.cs",
+              "RelativeToolTip": "Context\\EventoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:07:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:20:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PresencasEventos.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\PresencasEventos.cs",
+              "RelativeDocumentMoniker": "Domains\\PresencasEventos.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\PresencasEventos.cs",
+              "RelativeToolTip": "Domains\\PresencasEventos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:26:37.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipoEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\TipoEventoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TipoEventoRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\TipoEventoRepository.cs",
+              "RelativeToolTip": "Repositories\\TipoEventoRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:29:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoEventoController.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\TipoEventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoEventoController.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\TipoEventoController.cs",
+              "RelativeToolTip": "Controllers\\TipoEventoController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:06:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T17:16:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITiposEventosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\ITiposEventosRepository.cs",
+              "RelativeDocumentMoniker": "interfaces\\ITiposEventosRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\ITiposEventosRepository.cs",
+              "RelativeToolTip": "interfaces\\ITiposEventosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:20:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITiposUsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\ITiposUsuariosRepository.cs",
+              "RelativeDocumentMoniker": "interfaces\\ITiposUsuariosRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\ITiposUsuariosRepository.cs",
+              "RelativeToolTip": "interfaces\\ITiposUsuariosRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:29:28.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PresencaController.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\PresencaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PresencaController.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\PresencaController.cs",
+              "RelativeToolTip": "Controllers\\PresencaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:58:15.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComentarioController.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "Controllers\\ComentarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:46:01.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PresencasEventosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\PresencasEventosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PresencasEventosRepository.cs",
+              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\PresencasEventosRepository.cs",
+              "RelativeToolTip": "Repositories\\PresencasEventosRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:09:58.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "IComentariosEventosRepository.cs",
               "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\IComentariosEventosRepository.cs",
               "RelativeDocumentMoniker": "interfaces\\IComentariosEventosRepository.cs",
@@ -108,164 +433,19 @@
               "RelativeToolTip": "interfaces\\IComentariosEventosRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:25:08.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T19:25:08.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T19:23:54.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ITiposEventosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\ITiposEventosRepository.cs",
-              "RelativeDocumentMoniker": "interfaces\\ITiposEventosRepository.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\interfaces\\ITiposEventosRepository.cs",
-              "RelativeToolTip": "interfaces\\ITiposEventosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:20:55.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:20:11.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ComentarioEventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\ComentarioEventoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ComentarioEventoRepository.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\ComentarioEventoRepository.cs",
-              "RelativeToolTip": "Repositories\\ComentarioEventoRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:32:21.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TipoEventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\TipoEventoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TipoEventoRepository.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\TipoEventoRepository.cs",
-              "RelativeToolTip": "Repositories\\TipoEventoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:29:19.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ComentarioController.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\ComentarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ComentarioController.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Controllers\\ComentarioController.cs",
-              "RelativeToolTip": "Controllers\\ComentarioController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:46:01.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TiposEventos.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposEventos.cs",
-              "RelativeDocumentMoniker": "Domains\\TiposEventos.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposEventos.cs",
-              "RelativeToolTip": "Domains\\TiposEventos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:22:49.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TiposUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposUsuarios.cs",
-              "RelativeDocumentMoniker": "Domains\\TiposUsuarios.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\TiposUsuarios.cs",
-              "RelativeToolTip": "Domains\\TiposUsuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:22:48.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\EventoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EventoRepository.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\EventoRepository.cs",
-              "RelativeToolTip": "Repositories\\EventoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:52:17.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PresencasEventosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\PresencasEventosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PresencasEventosRepository.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Repositories\\PresencasEventosRepository.cs",
-              "RelativeToolTip": "Repositories\\PresencasEventosRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwDUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:09:58.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PresencasEventos.cs",
-              "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\PresencasEventos.cs",
-              "RelativeDocumentMoniker": "Domains\\PresencasEventos.cs",
-              "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Domains\\PresencasEventos.cs",
-              "RelativeToolTip": "Domains\\PresencasEventos.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:26:37.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Event-plus",
+              "DocumentIndex": 24,
+              "Title": "Event-plus.csproj",
               "DocumentMoniker": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Event-plus.csproj",
               "RelativeDocumentMoniker": "Event-plus.csproj",
               "ToolTip": "C:\\Users\\50178746827\\Desktop\\Senai_api_EVEvent\u002B\\Event-plus.csproj",
               "RelativeToolTip": "Event-plus.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T18:18:42.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:18:42.476Z"
             }
           ]
         }
