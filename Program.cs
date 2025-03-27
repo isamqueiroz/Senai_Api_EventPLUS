@@ -27,8 +27,8 @@ builder.Services.AddScoped<IEventosRepository, EventoRepository>();
 builder.Services.AddScoped<ITiposEventosRepository, TipoEventoRepository>();
 builder.Services.AddScoped<IUsuariosRepository, UsuarioRepository>();
 builder.Services.AddScoped<ITiposUsuariosRepository, TipoUsuarioRepository>();
-//builder.Services.AddScoped<IPresencasEventosRepository, PresencasEventosRepository>();
-//builder.Services.AddScoped<IComentarioEventoRepository, ComentarioEventoRepository>();
+builder.Services.AddScoped<IPresencasEventosRepository, PresencasEventosRepository>();
+builder.Services.AddScoped<IComentariosEventosRepository, ComentarioEventoRepository>();
 
 
 builder.Services.AddControllers();

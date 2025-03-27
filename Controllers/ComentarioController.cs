@@ -29,10 +29,18 @@ namespace Event_plus.Controllers
         }
 
         [HttpPost]
-        public IActionResult Cadastrar([FromBody] ComentariosEventos comentarioEvento)
+        public IActionResult Cadastrar(ComentariosEventos comentarioEvento)
         {
-            _comentarioEventoRepository.Cadastrar(comentarioEvento);
-            return StatusCode(201, "Comentário cadastrado com sucesso.");
+            try
+            {
+                _comentarioEventoRepository.Cadastrar(comentarioEvento);
+
+                return StatusCode(201, "Comentário cadastrado com sucesso.");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         

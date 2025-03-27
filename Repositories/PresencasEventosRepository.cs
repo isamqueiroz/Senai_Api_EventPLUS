@@ -8,7 +8,12 @@ namespace Event_plus.Repositories
     {
         private readonly EventoContext _context;
 
-       
+        public PresencasEventosRepository(EventoContext context)
+        {
+            _context = context;
+        }
+
+
         public void Atualizar(Guid id, PresencasEventos PresencasEventoAtualizado)
         {
             PresencasEventos PresencaBuscada = _context.PresencasEventos.Find(id)!;

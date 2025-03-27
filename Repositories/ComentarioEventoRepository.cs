@@ -8,6 +8,11 @@ namespace Event_plus.Repositories
     public class ComentarioEventoRepository : IComentariosEventosRepository
     {
         private readonly EventoContext _context;
+        public ComentarioEventoRepository(EventoContext context )
+        {
+            _context = context;
+        }
+
         public ComentariosEventos BuscarPorIdUsuario(Guid idUsuario, Guid idEvento)
         {
             return _context.ComentariosEventos.Find(idUsuario)!;
