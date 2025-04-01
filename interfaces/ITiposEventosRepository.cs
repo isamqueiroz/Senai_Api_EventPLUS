@@ -1,6 +1,6 @@
-﻿using Event_plus.Domains;
+﻿using webapi.event_.Domains;
 
-namespace Event_plus.interfaces
+namespace webapi.event_.Interfaces
 {
     public interface ITiposEventosRepository
     {

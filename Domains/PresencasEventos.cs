@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Event_plus.Domains
+namespace webapi.event_.Domains
 {
     [Table("PresencasEventos")]
     public class PresencasEventos
@@ -27,7 +27,5 @@ namespace Event_plus.Domains
 
         [ForeignKey("IdEvento")]
         public Eventos? Evento { get; set; }
-
-
     }
 }

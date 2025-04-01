@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Event_plus.Domains
+namespace webapi.event_.Domains
 {
     [Table("Eventos")]
     public class Eventos
@@ -21,19 +21,18 @@ namespace Event_plus.Domains
         [Required(ErrorMessage = "Descrição do evento obrigatório!")]
         public string? Descricao { get; set; }
 
-        //ref.tabela TiposEvento
+        //ref.tabela TiposEventos
         public Guid IdTipoEvento { get; set; }
 
         [ForeignKey("IdTipoEvento")]
         public TiposEventos? TiposEvento { get; set; }
 
-        //ref.tabela Instituicao
+        //ref.tabela Instituicoes
         public Guid IdInstituicao { get; set; }
 
         [ForeignKey("IdInstituicao")]
         public Instituicoes? Instituicao { get; set; }
 
-        public PresencasEventos? PresencasEvento { get; set; }
-
+        public PresencasEventos? PresencasEventos { get; set; }
     }
 }

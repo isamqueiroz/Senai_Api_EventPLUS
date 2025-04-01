@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Event_plus.Domains
+namespace webapi.event_.Domains
 {
     [Table("TiposEventos")]
     public class TiposEventos
@@ -11,7 +11,6 @@ namespace Event_plus.Domains
 
         [Column(TypeName = "VARCHAR(100)")]
         [Required(ErrorMessage = "Nome do evento obrigatório!")]
-        public string? Titulo { get; set; }
-
+        public string? TituloTipoEvento { get; set; }
     }
 }

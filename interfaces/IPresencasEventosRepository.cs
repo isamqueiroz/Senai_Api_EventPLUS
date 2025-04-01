@@ -1,27 +1,14 @@
-﻿using Event_plus.Domains;
+﻿using webapi.event_.Domains;
 
-namespace Event_plus.interfaces
+namespace webapi.event_.Interfaces
 {
     public interface IPresencasEventosRepository
     {
-    
-            //Inscrever no evento/Se cadastrar no evento
-            void Inscrever(PresencasEventos inscricao);
-
-            //Deletar a presença
-            void Deletar(Guid id);
-
-            //Atualizar a nossa presença no evento
-            void Atualizar(Guid id, PresencasEventos presenca);
-
-            //Listar as presencas
-            List<PresencasEventos> Listar();
-
-            //Listar as presencas por Usuario(id)
-            List<PresencasEventos> ListarMinhasPresencas(Guid id);
-
-            //Buscar a presença por ID
-            PresencasEventos BuscarPorId(Guid id);
-        
+        void Deletar(Guid id);
+        List<PresencasEventos> Listar();
+        PresencasEventos BuscarPorId(Guid id);
+        void Atualizar(Guid id, PresencasEventos presencaEvento);
+        List<PresencasEventos> ListarMinhas(Guid id);
+        void Inscrever(PresencasEventos inscricao);
     }
 }

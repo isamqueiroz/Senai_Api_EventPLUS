@@ -1,16 +1,14 @@
-﻿using Event_plus.Domains;
+﻿using webapi.event_.Domains;
 
-namespace Event_plus.interfaces
+namespace webapi.event_.Interfaces
 {
     public interface IComentariosEventosRepository
     {
-        //Adicionar/Criar um novo comentario
         void Cadastrar(ComentariosEventos comentarioEvento);
-        //Apagar um comentario
-        void Deletar(int idComentario);
-        //Listar os comentarios
+        void Deletar(Guid id);
         List<ComentariosEventos> Listar(Guid id);
-        //lista comentários POR usuário
         ComentariosEventos BuscarPorIdUsuario(Guid idUsuario, Guid idEvento);
+
+        List<ComentariosEventos> ListarSomenteExibe(Guid id);
     }
 }

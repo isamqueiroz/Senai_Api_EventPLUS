@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Event_plus.Domains
+namespace webapi.event_.Domains
 {
     [Table("Usuarios")]
+    [Index(nameof(Email), IsUnique = true)]
     public class Usuarios
     {
         [Key]
@@ -11,7 +13,7 @@ namespace Event_plus.Domains
 
         [Column(TypeName = "VARCHAR(100)")]
         [Required(ErrorMessage = "O Nome do usuário é obrigatório!")]
-        public string? Nome { get; set; }
+        public string? NomeUsuario { get; set; }
 
 
         [Column(TypeName = "VARCHAR(100)")]
@@ -24,12 +26,11 @@ namespace Event_plus.Domains
         [StringLength(60, MinimumLength = 5, ErrorMessage = "A senha deve conter entre 5 e 30 caracteres.")]
         public string? Senha { get; set; }
 
-        //referência para a entidade TiposUsuario
+        //referência para a entidade TiposUsuarios
         [Required(ErrorMessage = "O tipo do usuário é obrigatório!")]
         public Guid IdTipoUsuario { get; set; }
 
         [ForeignKey("IdTipoUsuario")]
         public TiposUsuarios? TipoUsuario { get; set; }
-
     }
 }
